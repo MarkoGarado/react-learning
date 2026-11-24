@@ -1,19 +1,22 @@
-# React + Vite
+# React Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Hands-on practice repository documenting my journey learning modern frontend development with **React**, **Vite**, and **JavaScript**.
 
-Currently, two official plugins are available:
+## Tech Stack
+- **React** (Components, JSX, Props, State & Hooks, etc)
+- **Vite** (Development server & bundler)
+- **JavaScript (ES6+)** & **CSS**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Concepts Covered
+- Project structure and Vite setup
+- Functional components and JSX syntax
+- Passing data and callbacks via Props
+- State management with `useState` and immutable array updates
+- Controlled inputs and event handling
+- Conditional rendering and list rendering with `key`
 
-## React Compiler
+## Getting Started
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/react-learning.git
